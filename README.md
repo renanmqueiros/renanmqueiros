@@ -6,3 +6,6 @@
 - 😄 Ele/ Dele
 - ⚡ Adoro tecnogia, procuro aprimorar meus conhecimentos a cada dia
 
+<div>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</div>
