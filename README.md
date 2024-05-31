@@ -6,4 +6,3 @@
 - 😄 Ele/ Dele
 - ⚡ Adoro tecnogia, procuro aprimorar meus conhecimentos a cada dia
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
